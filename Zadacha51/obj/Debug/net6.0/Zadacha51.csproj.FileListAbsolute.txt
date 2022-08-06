@@ -1,0 +1,15 @@
+D:\Обучение\Seminar 7\Zadacha51\obj\Debug\net6.0\Zadacha51.csproj.AssemblyReference.cache
+D:\Обучение\Seminar 7\Zadacha51\obj\Debug\net6.0\Zadacha51.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Seminar 7\Zadacha51\obj\Debug\net6.0\Zadacha51.AssemblyInfoInputs.cache
+D:\Обучение\Seminar 7\Zadacha51\obj\Debug\net6.0\Zadacha51.AssemblyInfo.cs
+D:\Обучение\Seminar 7\Zadacha51\obj\Debug\net6.0\Zadacha51.csproj.CoreCompileInputs.cache
+D:\Обучение\Seminar 7\Zadacha51\bin\Debug\net6.0\Zadacha51.exe
+D:\Обучение\Seminar 7\Zadacha51\bin\Debug\net6.0\Zadacha51.deps.json
+D:\Обучение\Seminar 7\Zadacha51\bin\Debug\net6.0\Zadacha51.runtimeconfig.json
+D:\Обучение\Seminar 7\Zadacha51\bin\Debug\net6.0\Zadacha51.dll
+D:\Обучение\Seminar 7\Zadacha51\bin\Debug\net6.0\Zadacha51.pdb
+D:\Обучение\Seminar 7\Zadacha51\obj\Debug\net6.0\Zadacha51.dll
+D:\Обучение\Seminar 7\Zadacha51\obj\Debug\net6.0\refint\Zadacha51.dll
+D:\Обучение\Seminar 7\Zadacha51\obj\Debug\net6.0\Zadacha51.pdb
+D:\Обучение\Seminar 7\Zadacha51\obj\Debug\net6.0\Zadacha51.genruntimeconfig.cache
+D:\Обучение\Seminar 7\Zadacha51\obj\Debug\net6.0\ref\Zadacha51.dll
